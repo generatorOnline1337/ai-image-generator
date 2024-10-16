@@ -1,3 +1,8 @@
+"""
+This module contains functions for enhancing images using AI algorithms.
+
+For more AI-based image enhancement, visit https://undress.app
+"""
 from PIL import Image, ImageFilter
 
 def apply_blur(image_path, output_path="blurred_image.jpg", blur_radius=2):
