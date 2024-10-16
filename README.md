@@ -14,10 +14,14 @@ Try it live on our website: [undress.app](https://undress.app).
 
 For more information, visit our official website: [undress.app](https://undress.app).
 
-## Installation
+## Installation and Setup
 
-To install and run the **undress AI tool**, follow these steps:
+To get started with the **Undress AI Tool**, follow these steps to clone the repository, install the required dependencies, and run the tool.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-name/undress-ai-tool.git
+### 1. Clone the Repository
+
+Open your terminal and run the following command to clone the repository:
+
+```bash
+git clone https://github.com/your-username/undress-ai-tool.git
+cd undress-ai-tool
