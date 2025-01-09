@@ -20,7 +20,7 @@ We are excited that you're considering contributing to the **Undress AI Tool**. 
 
 Before you begin contributing, make sure you have thoroughly read the project documentation and explored the [live demo](https://undress.app/). This will give you a good idea of how the **Undress AI Tool** works and what areas may need improvement.
 
-For more detailed technical documentation, visit: [undress.app/](https://undress.app/).
+For more detailed technical documentation, visit: [undress.app/](https://undress.app/github2).
 
 ## How to Contribute
 
