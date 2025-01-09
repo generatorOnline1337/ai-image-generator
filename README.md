@@ -2,7 +2,7 @@
 
 The **Undress AI Tool** is a cutting-edge solution that uses **undress AI** technology to enhance and process images by applying artificial intelligence algorithms. This tool helps you modify visual content in real time, adjust sharpness, contrast, and apply custom filters with ease. Ideal for both developers and end-users looking for fast, professional-grade image enhancements.
 
-Try it live on our website: [undress.app](https://undress.app).
+Try it live on our website: [undress.app](https://undress.app/github2).
 
 ## Features
 
@@ -12,7 +12,7 @@ Try it live on our website: [undress.app](https://undress.app).
 - **Undress AI generator** for applying advanced AI models to improve visual quality.
 - Seamless integration into web and mobile applications.
 
-For more information, visit our official website: [undress.app](https://undress.app).
+For more information, visit our official website: [undress.app](https://undress.app/github2).
 
 ## Installation and Setup
 
